@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "userId": "12345",
+      "university": "Harvard University",
+      "degree": 3,
+      "grade": "A"
+    },
+    {
+      "userId": "67890",
+      "university": "MIT",
+      "degree": 1003, // M.Sc in Computer Science
+      "grade": "B"
+    }
+  ]
+}
